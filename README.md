@@ -6,9 +6,9 @@
 ---
 
 ## 📂 專案內容
-- [HW1](#hw1)：Pacman 搜索演算法實作
-- [HW2](#hw2)：多智能體搜索與決策
-- [HW3](#hw3)：機器學習與神經網絡
+- [HW1](https://github.com/pincheng0523/Introduction-to-Artificial-Intelligence/tree/main/HW1)：Pacman 搜索演算法實作
+- [HW2](https://github.com/pincheng0523/Introduction-to-Artificial-Intelligence/tree/main/HW2)：多智能體搜索與決策
+- [HW3](https://github.com/pincheng0523/Introduction-to-Artificial-Intelligence/tree/main/HW3)：機器學習與神經網絡
 
 ---
 
